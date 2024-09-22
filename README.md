@@ -1,2 +1,2 @@
 # -License-Plate-Detection
-This is the project for AI bootcamp
+This is the project for AI BootCamp
